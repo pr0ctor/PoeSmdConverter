@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "POESMDConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "--smd \"G:\\poe_torrent\\tool\\rig_4182e167.smd\" --obj \"G:\\poe_torrent\\tool\\test.obj\""
+      //"commandLineArgs": "--smd \"G:\\poe_torrent\\tool\\corecosmic_strdex_532980af.smd\" --obj \"G:\\poe_torrent\\tool\\test.obj\""
+      //"commandLineArgs": "--smd \"G:\\poe_torrent\\tool\\coinflipbeltdexint_b11db967.smd\" --obj \"G:\\poe_torrent\\tool\\test.obj\""
+    }
+  }
+}
